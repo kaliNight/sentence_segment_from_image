@@ -1,0 +1,12 @@
+train: /media/sachin/hard_disk/python_tutorial/text_recognition_for_medical_products/sentence _detection/exp1/train
+val: /media/sachin/hard_disk/python_tutorial/text_recognition_for_medical_products/sentence _detection/exp1/val
+
+nc: 1
+names: ['sentence']
+
+roboflow:
+  workspace: veyyilrobotics4
+  project: medical_ocr_sentenc
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/veyyilrobotics4/medical_ocr_sentenc/dataset/1
